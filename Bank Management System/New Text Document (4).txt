@@ -1,0 +1,11 @@
+Admin:
+ can add new employee to a particular branch.
+
+
+[Here, Employee is a class consist of: name, id, joining date, branch]
+
+Employee: 
+ can see total consumer of the branch, can add a new Account... can see ac info;
+
+Client:
+ deposit, withdraw, transection of account;
